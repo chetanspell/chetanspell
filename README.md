@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**chetanspell/chetanspell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Vue.js and Laravel
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chetankharel7@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can turn caffine to code haha..
--->
